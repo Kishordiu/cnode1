@@ -10,7 +10,9 @@ CNode 1 is a deliberately fast product-prototyping space: a React/TypeScript she
 
 ## THE EXPERIENCE
 
-**Start with the interface, not the ceremony.**  \n**Keep components composable.**  \n**Make every prototype easy to evolve.**
+**Start with the interface, not the ceremony.**  
+**Keep components composable.**  
+**Make every prototype easy to evolve.**
 
 ## THE SYSTEM
 

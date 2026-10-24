@@ -1,6 +1,4 @@
-# CNODE 1
-
-![CNODE 1 cinematic hero](https://capsule-render.vercel.app/api?type=rect&color=0:070707,100:171717&height=230&text=CNODE%201&fontColor=F3F3EE&fontSize=40&fontAlignY=38&desc=RAPID%20PRODUCT%20INTERFACE%20LAB&descColor=999991&descSize=12&descAlignY=66&animation=fadeIn)
+![CNODE 1 — bespoke brushed-metal project artwork](./assets/readme-metal-hero.svg)
 
 > **RAPID PRODUCT INTERFACE LAB.**
 

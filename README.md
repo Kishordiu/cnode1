@@ -1,5 +1,7 @@
 ![CNODE 1 — bespoke brushed-metal project artwork](./assets/readme-metal-hero.svg)
 
+# CNODE 1
+
 > **RAPID PRODUCT INTERFACE LAB.**
 
 ## THE PREMISE
